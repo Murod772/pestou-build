@@ -53,3 +53,7 @@
     background: none !important; 
     box-shadow: none !important;
 }
+
+.text-color-primary{
+    color: #5b9bd5;
+}

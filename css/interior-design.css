@@ -7,7 +7,7 @@
 }
 
 
-p { font-weight: 300; }
+p { font-weight: 300; font-size: 18px; }
 
 .menu-container > .menu-item > .menu-link {
 	font-size: 16px;
