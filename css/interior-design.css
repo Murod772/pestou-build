@@ -121,7 +121,6 @@ body.side-panel-open #side-panel {
 .customers-count { border-right: 1px solid rgba(0, 0, 0, 0.1); }
 
 .customers-count .counter {
-	font-family: 'Playfair Display', serif;
 	font-weight: 700;
 	color: #1d2c4c;
 	font-size: 64px;

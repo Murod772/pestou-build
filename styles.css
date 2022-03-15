@@ -4,7 +4,7 @@
 	margin: 0;
 	color: #484848; 
 	font-size: 46px; 
-	font-weight: 500; 
+	font-weight: 700; 
 	text-shadow: 
 		0 7px 10px rgba(0,0,0,0.07), 
 		0 4px 4px rgba(0,0,0,0.2);
@@ -12,7 +12,7 @@
 
 
 .active {
-    font-weight: 700;
+    color: black;
 }
 
 .img-fullwidth{
@@ -22,4 +22,34 @@
 
 .ready{
     margin-bottom: 30px !important;
+}
+
+#google_translate_element select{
+    background:#1ABC9C;
+    color:#ffffff;
+    border: none;
+    border-radius:3px;
+    padding:6px 8px
+}
+    
+/*google translate link | logo */
+.goog-logo-link{
+    display:none!important;
+}
+.goog-te-gadget{
+    color:transparent!important;
+}
+
+/* google translate banner-frame */
+
+.goog-te-banner-frame{
+    display:none !important;
+}
+
+#goog-gt-tt, .goog-te-balloon-frame{
+    display: none !important;
+}
+.goog-text-highlight { 
+    background: none !important; 
+    box-shadow: none !important;
 }
