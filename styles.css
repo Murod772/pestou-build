@@ -15,6 +15,7 @@
     color: black;
 }
 
+
 .img-fullwidth{
     width: 100% !important;
     height: auto !important;
@@ -22,36 +23,6 @@
 
 .ready{
     margin-bottom: 30px !important;
-}
-
-#google_translate_element select{
-    background:#1ABC9C;
-    color:#ffffff;
-    border: none;
-    border-radius:3px;
-    padding:6px 8px
-}
-    
-/*google translate link | logo */
-.goog-logo-link{
-    display:none!important;
-}
-.goog-te-gadget{
-    color:transparent!important;
-}
-
-/* google translate banner-frame */
-
-.goog-te-banner-frame{
-    display:none !important;
-}
-
-#goog-gt-tt, .goog-te-balloon-frame{
-    display: none !important;
-}
-.goog-text-highlight { 
-    background: none !important; 
-    box-shadow: none !important;
 }
 
 .text-color-primary{
